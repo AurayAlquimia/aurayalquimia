@@ -1,0 +1,1 @@
+// Espacio para futuras funciones del Test de Alquimia
